@@ -1,0 +1,270 @@
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(114): warning:  #61-D: integer operation result is out of range
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                          ^
+main.c(114): warning:  #68-D: integer conversion resulted in a change of sign
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                    ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(114): warning:  #61-D: integer operation result is out of range
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                          ^
+main.c(114): warning:  #68-D: integer conversion resulted in a change of sign
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                    ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(114): warning:  #61-D: integer operation result is out of range
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                          ^
+main.c(114): warning:  #68-D: integer conversion resulted in a change of sign
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                    ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(114): warning:  #61-D: integer operation result is out of range
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                          ^
+main.c(114): warning:  #68-D: integer conversion resulted in a change of sign
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                    ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(114): warning:  #61-D: integer operation result is out of range
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                          ^
+main.c(114): warning:  #68-D: integer conversion resulted in a change of sign
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                    ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(114): warning:  #61-D: integer operation result is out of range
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                          ^
+main.c(114): warning:  #68-D: integer conversion resulted in a change of sign
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                    ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=52 ZI-data=1276  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=52 ZI-data=1276  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=52 ZI-data=1276  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(114): warning:  #61-D: integer operation result is out of range
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                          ^
+main.c(114): warning:  #68-D: integer conversion resulted in a change of sign
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                    ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=52 ZI-data=1276  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(114): warning:  #61-D: integer operation result is out of range
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                          ^
+main.c(114): warning:  #68-D: integer conversion resulted in a change of sign
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                    ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(114): warning:  #61-D: integer operation result is out of range
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                          ^
+main.c(114): warning:  #68-D: integer conversion resulted in a change of sign
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                    ^
+main.c(162): error:  #20: identifier "count" is undefined
+main.c:           pen_count = count++;
+main.c:                       ^
+main.c: main.c: 2 warnings, 1 error
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(114): warning:  #61-D: integer operation result is out of range
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                          ^
+main.c(114): warning:  #68-D: integer conversion resulted in a change of sign
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                    ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=3676 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3676 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(114): warning:  #61-D: integer operation result is out of range
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                          ^
+main.c(114): warning:  #68-D: integer conversion resulted in a change of sign
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                    ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=3704 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3704 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(114): warning:  #61-D: integer operation result is out of range
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                          ^
+main.c(114): warning:  #68-D: integer conversion resulted in a change of sign
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                    ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=3692 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3692 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(114): warning:  #61-D: integer operation result is out of range
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                          ^
+main.c(114): warning:  #68-D: integer conversion resulted in a change of sign
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                    ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=3676 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3676 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(114): warning:  #61-D: integer operation result is out of range
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                          ^
+main.c(114): warning:  #68-D: integer conversion resulted in a change of sign
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                    ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(113): warning:  #61-D: integer operation result is out of range
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                          ^
+main.c(113): warning:  #68-D: integer conversion resulted in a change of sign
+main.c:         PINSEL0 |= (1 << 31);
+main.c:                    ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=3652 RO-data=32 RW-data=56 ZI-data=1272  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
